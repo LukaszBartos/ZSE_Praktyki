@@ -76,18 +76,19 @@ public class zadania_4 {
         System.out.println("Podaj trzecią  liczbe: ");
         int trzecia = skaner.nextInt();
 
-        if(pierwsza > druga && pierwsza > trzecia){
+        if(pierwsza > druga && pierwsza > trzecia&& druga>trzecia){
             System.out.print("Kolejność malejąca");
         }
-        else if(druga > pierwsza && druga > trzecia ) {
+        else if(druga > pierwsza && druga > trzecia || druga<pierwsza && druga<trzecia) {
             System.out.print("Brak kolejności");
         }
-
-        else if(trzecia > druga && trzecia > pierwsza) {
+        else if(trzecia > druga && druga > pierwsza) {
             System.out.print("kolejnosc rosnąca");
         }
-        else if(pierwsza==druga || pierwsza==trzecia || druga==trzecia)
+        else if(pierwsza==druga || pierwsza==trzecia ||  druga==trzecia  ) {
             System.out.println(" przynajmniej dwie takie same liczby, brak kolejności");
+        }
+
 
         //zadanie 5
         System.out.println("\nPodaj 1 liczbe");
