@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Zadania_Spotkanie5">
+  <component name="RunManager" selected="Application.zadania_tablice">
     <configuration name="ZadaniaPetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaPetle" />
       <module name="ZSE_Praktyki" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.lekcja_statements" />
+    <configuration name="lekcja_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.arrays.lekcja_arrays" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.*" />
+          <option name="PATTERN" value="second_week.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.zadania_spotkanie4.zadania_4" />
+    <configuration name="zadania_tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.arrays.zadania_tablice" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.zadania_spotkanie4.*" />
+          <option name="PATTERN" value="second_week.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadania_tablice" />
+        <item itemvalue="Application.lekcja_arrays" />
         <item itemvalue="Application.Zadania_Spotkanie5" />
         <item itemvalue="Application.ZadaniaPetle" />
         <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.zadania_4" />
-        <item itemvalue="Application.lekcja_statements" />
       </list>
     </recent_temporary>
   </component>
