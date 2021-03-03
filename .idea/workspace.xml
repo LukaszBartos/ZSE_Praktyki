@@ -26,39 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadania_tablice">
-    <configuration name="ZadaniaPetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaPetle" />
+  <component name="RunManager" selected="Application.Zadania_multiArrays">
+    <configuration name="Zadania_multiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.Zadania_multiArrays" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadania_Spotkanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.Zadania_Spotkanie5" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.fibonacci" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="second_week.multiArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +53,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lekcja_multiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.lekcja_multiArrays" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.multiArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zadania_tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.arrays.zadania_tablice" />
       <module name="ZSE_Praktyki" />
@@ -92,13 +79,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie_Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.zadanie_Lista" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.multiArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadania_multiArrays" />
+        <item itemvalue="Application.zadanie_Lista" />
+        <item itemvalue="Application.lekcja_multiArrays" />
         <item itemvalue="Application.zadania_tablice" />
         <item itemvalue="Application.lekcja_arrays" />
-        <item itemvalue="Application.Zadania_Spotkanie5" />
-        <item itemvalue="Application.ZadaniaPetle" />
-        <item itemvalue="Application.fibonacci" />
       </list>
     </recent_temporary>
   </component>
