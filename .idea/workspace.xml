@@ -26,7 +26,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Zadania_multiArrays">
+  <component name="RunManager" selected="Application.zadaniePiec">
+    <configuration name="LekcjaMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.LekcjaMetody" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.Piec" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.PralkoSuszarka" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadania_multiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.Zadania_multiArrays" />
       <module name="ZSE_Praktyki" />
@@ -40,51 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.arrays.lekcja_arrays" />
+    <configuration name="zadaniePiec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.zadaniePiec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lekcja_multiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.lekcja_multiArrays" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.multiArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zadania_tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.arrays.zadania_tablice" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zadanie_Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.zadanie_Lista" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.multiArrays.*" />
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadaniePiec" />
+        <item itemvalue="Application.Piec" />
+        <item itemvalue="Application.PralkoSuszarka" />
+        <item itemvalue="Application.LekcjaMetody" />
         <item itemvalue="Application.Zadania_multiArrays" />
-        <item itemvalue="Application.zadanie_Lista" />
-        <item itemvalue="Application.lekcja_multiArrays" />
-        <item itemvalue="Application.zadania_tablice" />
-        <item itemvalue="Application.lekcja_arrays" />
       </list>
     </recent_temporary>
   </component>
