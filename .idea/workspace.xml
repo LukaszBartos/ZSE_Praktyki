@@ -26,13 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadaniePiec">
-    <configuration name="LekcjaMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.LekcjaMetody" />
+  <component name="RunManager" selected="Application.zadanie3_wykorzystanie">
+    <configuration name="lekcja_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.basics.lekcja_basics" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="first_week.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +40,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.Piec" />
+    <configuration name="zadanie1_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie1_wykorzystanie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.PralkoSuszarka" />
+    <configuration name="zadanie2_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie2_wykorzystanie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadania_multiArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multiArrays.Zadania_multiArrays" />
+    <configuration name="zadanie3_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie3_wykorzystanie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.multiArrays.*" />
+          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadaniePiec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.zadaniePiec" />
+    <configuration name="zadanie_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie_4" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadaniePiec" />
-        <item itemvalue="Application.Piec" />
-        <item itemvalue="Application.PralkoSuszarka" />
-        <item itemvalue="Application.LekcjaMetody" />
-        <item itemvalue="Application.Zadania_multiArrays" />
+        <item itemvalue="Application.zadanie3_wykorzystanie" />
+        <item itemvalue="Application.zadanie2_wykorzystanie" />
+        <item itemvalue="Application.zadanie1_wykorzystanie" />
+        <item itemvalue="Application.lekcja_basics" />
+        <item itemvalue="Application.zadanie_4" />
       </list>
     </recent_temporary>
   </component>
@@ -112,5 +112,17 @@
       <updated>1614082407173</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
