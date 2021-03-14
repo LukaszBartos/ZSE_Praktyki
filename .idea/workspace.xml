@@ -26,13 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadanie3_wykorzystanie">
-    <configuration name="lekcja_basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basics.lekcja_basics" />
+  <component name="RunManager" selected="Application.swing">
+    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Kalkulator" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basics.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +40,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie1_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie1_wykorzystanie" />
+    <configuration name="Klawisze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Klawisze" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie2_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie2_wykorzystanie" />
+    <configuration name="Myszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.Myszka" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie3_wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie3_wykorzystanie" />
+    <configuration name="WyjatkiZajecia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.exceptions.WyjatkiZajecia" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
+          <option name="PATTERN" value="third_week.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.zadania_spotkanie9.zadanie_4" />
+    <configuration name="swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.gui.swing" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.zadania_spotkanie9.*" />
+          <option name="PATTERN" value="third_week.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadanie3_wykorzystanie" />
-        <item itemvalue="Application.zadanie2_wykorzystanie" />
-        <item itemvalue="Application.zadanie1_wykorzystanie" />
-        <item itemvalue="Application.lekcja_basics" />
-        <item itemvalue="Application.zadanie_4" />
+        <item itemvalue="Application.swing" />
+        <item itemvalue="Application.Myszka" />
+        <item itemvalue="Application.Klawisze" />
+        <item itemvalue="Application.Kalkulator" />
+        <item itemvalue="Application.WyjatkiZajecia" />
       </list>
     </recent_temporary>
   </component>
