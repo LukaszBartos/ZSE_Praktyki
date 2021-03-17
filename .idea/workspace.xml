@@ -26,13 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.swing">
-    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.gui.Kalkulator" />
+  <component name="RunManager" selected="Application.wisielec">
+    <configuration name="Gra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourth_week.projekt.Gra" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="PATTERN" value="fourth_week.projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,12 +40,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Klawisze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.gui.Klawisze" />
+    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.PralkoSuszarka" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Myszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.gui.Myszka" />
+    <configuration name="PrzykładForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.KolkoIKrzyzyk.PrzykładForEach" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="PATTERN" value="third_week.KolkoIKrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WyjatkiZajecia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.exceptions.WyjatkiZajecia" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.KolkoIKrzyzyk.TicTacToe" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.exceptions.*" />
+          <option name="PATTERN" value="third_week.KolkoIKrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.gui.swing" />
+    <configuration name="wisielec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourth_week.projekt.wisielec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.gui.*" />
+          <option name="PATTERN" value="fourth_week.projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.swing" />
-        <item itemvalue="Application.Myszka" />
-        <item itemvalue="Application.Klawisze" />
-        <item itemvalue="Application.Kalkulator" />
-        <item itemvalue="Application.WyjatkiZajecia" />
+        <item itemvalue="Application.wisielec" />
+        <item itemvalue="Application.Gra" />
+        <item itemvalue="Application.PralkoSuszarka" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.PrzykładForEach" />
       </list>
     </recent_temporary>
   </component>
