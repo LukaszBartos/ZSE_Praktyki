@@ -3,21 +3,21 @@ import java.util.Scanner;
 
 public class wisielec {
 
-    private static String[] slowafest = {"jaca", "kąkuter", "kobra", "tiger", "kopytko", "azerbejdżan" };
+    private static String[] slowafest = {"jaca", "kąkuter", "kobra", "tiger", "kopytko", "azerbejdżan", "pimpek", "grzib"};
     private static String slowo = slowafest[(int) (Math.random() * slowafest.length)];
     private static String gwiazdkowanie_slowa = new String(new char[slowo.length()]).replace("\0", "*");
     private static int proby = 0;
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         while (proby < 7 && gwiazdkowanie_slowa.contains("*")) {
             System.out.println("Zgadnij literkę:");
             System.out.println(gwiazdkowanie_slowa);
-            String zgadnij = sc.next();
+            String zgadnij = scanner.next();
             wisifest(zgadnij);
         }
-        sc.close();
+        scanner.close();
     }
 
     public static void wisifest(String zgadnij) {
@@ -34,16 +34,16 @@ public class wisielec {
 
         if (gwiazdkowanie_slowa.equals(gwiazda)) {
             proby++;
-            wisielecImage();
+            wisielec_tego_typu();
         } else {
             gwiazdkowanie_slowa = gwiazda;
         }
         if (gwiazdkowanie_slowa.equals(slowo)) {
-            System.out.println("Zgadłeś, poprawne słowo to '"+slowo+"'");
+            System.out.println("Zgadłeś, poprawne słowo to '" + slowo + "'");
         }
     }
 
-    public static void wisielecImage() {
+    public static void wisielec_tego_typu() {
         if (proby == 1) {
             System.out.println("Niet, spróbuj jeszcze roz ino");
             System.out.println();
@@ -123,7 +123,7 @@ public class wisielec {
             System.out.println("   |         / | \\");
             System.out.println("   |          / \\ ");
             System.out.println("___|___      /   \\");
-            System.out.println("Masne słowo to '"+slowo+"'");
+            System.out.println("Masne słowo to '" + slowo + "'");
         }
     }
 }
