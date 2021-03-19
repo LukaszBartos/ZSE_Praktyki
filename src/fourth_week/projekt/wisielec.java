@@ -3,12 +3,14 @@ import java.util.Scanner;
 
 public class wisielec {
 
+
     private static String[] slowafest = {"jaca", "kąkuter", "kobra", "tiger", "kopytko", "azerbejdżan", "pimpek", "grzib"};
     private static String slowo = slowafest[(int) (Math.random() * slowafest.length)];
     private static String gwiazdkowanie_slowa = new String(new char[slowo.length()]).replace("\0", "*");
     private static int proby = 0;
 
     public static void main(String[] args) {
+        System.out.println("AUTORZY: Łukasz Bartos, Robert Miotk");
         Scanner scanner = new Scanner(System.in);
 
         while (proby < 7 && gwiazdkowanie_slowa.contains("*")) {
@@ -125,5 +127,6 @@ public class wisielec {
             System.out.println("___|___      /   \\");
             System.out.println("Masne słowo to '" + slowo + "'");
         }
+
     }
 }
